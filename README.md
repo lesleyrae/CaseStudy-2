@@ -1,4 +1,11 @@
 # CaseStudy-2
+
+## Reports:
+https://github.com/lesleyrae/CaseStudy-2/blob/b6315d427b1bb910ef2eb4d8b889f27f9bf4ea8e/Case%20Study%202.pdf
+
+## Codes:
+
+## Results
 |                                            | 2015          | 2016            | 2017           |   |
 |--------------------------------------------|---------------|-----------------|----------------|---|
 |        Total revenue for the current year  | 29036749      | 25730944        | 31417495       |   |
