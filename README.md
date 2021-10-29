@@ -12,8 +12,10 @@
 | · New Customers                            |        231294 |        145062   |        228262  |   |
 | · Lost Customers                           | 0             | 171710          |        182921  |   |
 
-## Fun Facts:
+## Observations:
 - (1) The business went down from 2015 to 2016 and went up from 2016 to 2017
-- (2) The rentention rate is so low from year to year, the customers' life value is short
-- (3) The prices per users haven't change much over time.
-- (4) The increasing number of new-users can make up for the loss from old-customers
+- (2) The rentention rate is so low from year to year(Only 3% users from 2015 rentent to 2017,only 10% users from 2016 to 2017), the customers' life value is short.
+- (3) The prices per users haven't change much over time(around 125 for three years). It shows that the price does not appreciate.
+- (4) The increasing number of new-users can make up for the loss from old-customers.In 2016, 70% of revenues and users comes from new user while in 2017, more than 90% of revenues and users comes from new user. It shows that the products is getting harder to remain users.
+
+
