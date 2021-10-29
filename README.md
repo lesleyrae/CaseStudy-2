@@ -2,6 +2,8 @@
 
 ## Reports:
 https://github.com/lesleyrae/CaseStudy-2/blob/b6315d427b1bb910ef2eb4d8b889f27f9bf4ea8e/Case%20Study%202.pdf
+## Simple Report:
+https://github.com/lesleyrae/CaseStudy-2/blob/16e5a9cbfd821f8034ade14a93313100d2d43c2c/Observations_report.pdf
 
 ## Codes:
 https://github.com/lesleyrae/CaseStudy-2/blob/928f3aceb27c5f78ecc4bf73f38274d420deee7e/Case%20Study%202%20(1).py
